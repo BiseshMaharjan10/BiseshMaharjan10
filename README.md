@@ -1,6 +1,3 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
 
 ###
 
@@ -30,6 +27,16 @@
 
 ###
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BiseshMaharjan10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BiseshMaharjan10&locale=en&mode=daily&theme=cobalt&hide_border=false&border_radius=5" height="150" alt="streak stats"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BiseshMaharjan10&radius=16&theme=cobalt&area=true&order=5&hide_title=true&hide_border=false" height="300" alt="activity graph" />
+</div>
+
+###
+
 <div align="center">
 </div>
 
@@ -46,8 +53,6 @@
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
-</div>
+
 
 ###
